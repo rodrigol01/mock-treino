@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "KqYR30eti/DnMeU07MJwfqfJgeK7zTOZwykZfukufy9366XiX8njhiA4oSgwVOQw7nPTv8Z8OlHGfV5EoB/DyQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\leo-b\\Documents\\estudos rodrigo\\-e-commerce\\SiteEcommerce\\Services\\Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\leo-b\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\leo-b\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\leo-b\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
